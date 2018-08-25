@@ -11,5 +11,6 @@ git checkout first_branch
 make changes/ create new files in that new branch
 git checkout master(come to master again before merging)
 git merge first_branch
-
+git rebase first_branch
+git rebase master
  
