@@ -1,0 +1,8 @@
+create a repo in github
+git init
+git remote add origin "https://github.com/jlksKrypton/github.git"
+git pull origin master
+create file in local repo
+git add *
+git reset HEAD *
+git commit -m "version 1"
