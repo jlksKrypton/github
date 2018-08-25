@@ -6,3 +6,5 @@ create file in local repo
 git add *
 git reset HEAD *
 git commit -m "version 1"
+git branch first_branch
+git checkout first_branch
