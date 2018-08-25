@@ -8,3 +8,8 @@ git reset HEAD *
 git commit -m "version 1"
 git branch first_branch
 git checkout first_branch
+make changes/ create new files 
+git checkout master(come to master again before merging)
+git merge first_branch
+
+ 
